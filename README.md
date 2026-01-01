@@ -1,16 +1,80 @@
-## Hi there 👋
+# 🧑🏾‍💻 Whybid Teodoro 
 
-<!--
-**WhybidTeodoro/WhybidTeodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor BackEnd`**
 
-Here are some ideas to get you started:
+Me chamo Whybid, tenho 26 anos e sou de São José dos Campos-SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e buscando um estágio em BackEnd.  
+Linkedin: "[Whybid](www.linkedin.com/in/whybid)"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"           
+/>
+<img 
+    align="left" 
+    alt=".NET" 
+    title=".NET"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg"                
+/>
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"        
+/>
+<img 
+    align="left" 
+    alt="Entity Framework Core"
+    title="Entity Framework Core" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"      
+/>
+<img 
+    align="left" 
+    alt="Swagger"
+    title="Swagger" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"      
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=WhybidTeodoro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+ <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhybidTeodoro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
