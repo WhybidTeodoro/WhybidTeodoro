@@ -3,7 +3,7 @@
 **`Desenvolvedor BackEnd`**
 
 Me chamo Whybid, tenho 26 anos e sou de São José dos Campos-SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e buscando um estágio em BackEnd.  
-Linkedin: "[Whybid](www.linkedin.com/in/whybid)"
+
 
 ---
 
