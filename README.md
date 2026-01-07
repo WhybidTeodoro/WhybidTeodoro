@@ -2,12 +2,10 @@
 
 **`Desenvolvedor BackEnd`**
 
-Sou um desenvolvedor em formação, que busca a minha primeira oportunidade de estágio em desenvolvimento de software. Venho construindo minha transição para a área de tecnologia com foco em C# e ASP.NET Core, sempre priorizando aprendizado prático e evolução contínua.
-
-Ao longo desse processo, desenvolvi uma API REST autoral, onde tive contato direto com desafios reais do dia a dia do desenvolvimento, como estruturar a lógica de negócio, integrar banco de dados, implementar autenticação de usuários e resolver problemas. Esse projeto foi fundamental para transformar teoria em prática.
+Sou um desenvolvedor em formação, que busca a minha oportunidade de estágio em desenvolvimento de software. Venho construindo minha capacitação para a área de tecnologia com foco e
+ao longo desse processo, desenvolvi uma API REST autoral, onde tive contato direto com desafios reais do dia a dia do desenvolvimento, como estruturar a lógica de negócio, integrar banco de dados, implementar autenticação de usuários e resolver problemas. Esse projeto foi fundamental para transformar teoria em prática.
 
 Minha experiência profissional anterior, em ambientes operacionais e de atendimento ao cliente, contribuiu para o desenvolvimento de competências como disciplina, responsabilidade, comunicação e trabalho em equipe. Acredito que essas habilidades, somadas à base técnica que venho construindo, me permitem aprender rápido e colaborar de forma positiva com o time.
-
 
 ---
 
